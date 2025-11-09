@@ -27,3 +27,8 @@ Clean and modern UI
 1- Kotlin detects device shake and sends an event through EventChannel.
 
 2- Flutter listens to the event and triggers animations and quotes.
+
+### App Screenshots
+Here’s a quick demo of the app:
+
+![App Demo](assets/screenshot/detection.gif)
